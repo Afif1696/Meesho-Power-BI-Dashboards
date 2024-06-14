@@ -1,0 +1,26 @@
+Overview
+Welcome to the Meesho Power BI Dashboards repository. This project features a series of Power BI dashboards created using data from the OrdersV2 (28).xlsx file. These dashboards provide comprehensive insights into the performance of the Meesho platform, focusing on various aspects such as sales, customer behavior, and product trends.
+
+File Description
+OrdersV2 (28).xlsx: This Excel file includes detailed order data necessary for creating and updating the Power BI dashboards. The dataset encompasses order IDs, dates, customer information, product details, quantities, prices, and other relevant metrics.
+Objectives
+Data Analysis: Conduct in-depth data analysis to reveal trends, patterns, and actionable insights from the dataset.
+Dashboard Design: Develop interactive and visually engaging dashboards that effectively present the analyzed data.
+Key Features
+Interactive Visualizations: Dashboards contain a variety of interactive elements such as charts, graphs, and tables, allowing users to explore data dynamically.
+Data Filtering: Enables filtering of data based on various criteria to focus on specific segments or insights.
+Comprehensive Insights: Provides detailed insights into metrics like sales performance, customer behavior, and product trends, tailored to the Meesho platform.
+Usage
+Download the Excel File: Obtain the OrdersV2 (28).xlsx file from this repository.
+Open in Power BI: Load the Excel file into Power BI Desktop.
+Explore Dashboards: Review and interact with the dashboards to gain insights from the data.
+Customize as Needed: Adapt the dashboards to meet your specific analysis needs or preferences.
+Contribution Guidelines
+We welcome contributions to enhance this project. To contribute, please fork the repository, make your changes, and submit a pull request. Potential contributions include:
+
+Adding new visualizations
+Enhancing existing dashboards
+Improving data analysis techniques
+Updating or expanding documentation
+Contact Information
+For questions, suggestions, or feedback, please contact Afif Ansari at afifansari10@gmail.com.
